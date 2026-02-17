@@ -250,9 +250,10 @@ To view data directly in PostgreSQL:
 -- View specific product
 <img width="1120" height="477" alt="image" src="https://github.com/user-attachments/assets/65689c5d-0c65-4fce-86ba-1f5c763f6f29" />
 
+---
+Count products
+<img width="1127" height="517" alt="3" src="https://github.com/user-attachments/assets/d8d138c8-5561-4089-b05b-7b8ed6617f52" />
 
--- Count products
-<img width="1127" height="517" alt="3" src="https://github.com/user-attachments/assets/f7e5f371-cd67-4f21-a427-c5b29cab8fd1" />
 
 
 ```
