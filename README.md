@@ -244,13 +244,16 @@ To view data directly in PostgreSQL:
 
 ```sql
 -- View all products
-SELECT * FROM product;
+<img width="1123" height="546" alt="1" src="https://github.com/user-attachments/assets/789a1413-11c6-43d7-9b0a-4c07bfc691d7" />
+
 
 -- View specific product
-SELECT * FROM product WHERE product_id = 1001;
+<img width="1116" height="422" alt="2" src="https://github.com/user-attachments/assets/06e062ad-211d-49a0-bda8-8cc982d7d096" />
+
 
 -- Count products
-SELECT COUNT(*) FROM product;
+![View All Products](<img width="1123" height="546" alt="image" src="https://github.com/user-attachments/assets/a5e223db-2a9c-4d79-b8e8-dca0982bc6eb" />)
+
 ```
 
 
