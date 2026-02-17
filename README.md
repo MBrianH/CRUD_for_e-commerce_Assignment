@@ -252,7 +252,8 @@ To view data directly in PostgreSQL:
 
 
 -- Count products
-<img width="1127" height="517" alt="image" src="https://github.com/user-attachments/assets/1137260a-61e0-4810-8d28-062c1fdf37ef" />
+<img width="1127" height="517" alt="3" src="https://github.com/user-attachments/assets/f7e5f371-cd67-4f21-a427-c5b29cab8fd1" />
+
 
 ```
 
