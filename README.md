@@ -244,19 +244,15 @@ To view data directly in PostgreSQL:
 
 ```sql
 -- View all products
-<img width="1084" height="449" alt="image" src="https://github.com/user-attachments/assets/89bf1291-5313-4445-b9b0-bbe00418956f" />
-
+SELECT * FROM product;
 
 -- View specific product
-<img width="1120" height="477" alt="image" src="https://github.com/user-attachments/assets/65689c5d-0c65-4fce-86ba-1f5c763f6f29" />
+SELECT * FROM product WHERE product_id = 1001;
 
----
-Count products
-<img width="1127" height="517" alt="3" src="https://github.com/user-attachments/assets/d8d138c8-5561-4089-b05b-7b8ed6617f52" />
-
-
-
+-- Count products
+SELECT COUNT(*) FROM product;
 ```
+
 
 ## Author
 
